@@ -1,5 +1,6 @@
 ---
 title: Another Big Change
+author: tony-j-white
 change_type: Quick
 start_time: 2026-08-31T19:42:00-05:00
 end_time: 2026-08-31T20:42:00-05:00
@@ -7,7 +8,7 @@ end_time: 2026-08-31T20:42:00-05:00
 
 ## Preparation
 
-yarp
+yarpa
 
 ## Maintenance Operation
 
